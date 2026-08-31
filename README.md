@@ -1,5 +1,7 @@
 # 자기소개
 
+<img src="figure/강아지.png" width="200" alt="프로필 사진">
+
 ## 이름
 
 이지연
